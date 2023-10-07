@@ -1,0 +1,14 @@
+# [xGamma.in](https://xgamma.in/)
+
+A curated list of repositories made by **Alwin T** and **Pranav K** as part of an initiative to create amazing products 100% in public and open-sourced.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
