@@ -1,6 +1,6 @@
 # [xGamma.in](https://xgamma.in/)
 
-A curated list of repositories made by **Alwin T** and **Pranav K Bhaskar** as part of an initiative to create amazing products 100% in public and open-sourced.
+A curated list of repositories made by us as part of an initiative to create amazing products 100% in public and open-sourced.
 
 ## Contributing
 
